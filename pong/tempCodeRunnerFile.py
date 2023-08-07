@@ -1,0 +1,1 @@
+score.change_score(score1,score2)
